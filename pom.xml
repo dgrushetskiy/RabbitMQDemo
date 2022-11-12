@@ -15,6 +15,7 @@
          <module>DirectExchangeGreenQConsumer</module>
         <module>DirectExchangeYellowQConsumer</module>
         <module>DirectExchangeRedQConsumer</module>
+        <module>TopicExchangePublisher</module>
     </modules>
 
     <properties>
